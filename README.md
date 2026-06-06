@@ -38,90 +38,75 @@
 - 🎓 ITI Trainee — Full Stack Web Development using .NET
 
 ---
-# 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+## 🏆 Featured Projects
 
-### 🚀 Backend
-<p>
-  <img height="55" src="https://skillicons.dev/icons?i=dotnet,redis,docker" />
-</p>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SignalR-5B21B6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OAuth2-EA4335?style=flat-square"/>
-</p>
+### 🍽️ Restaurant Management System – ITI Graduation Project
 
-</td>
+**Full-stack multi-branch restaurant platform**
+*ASP.NET Core 8, Angular 20, SQL Server, Identity, Onion Architecture, SignalR, Paymob, Redis, AutoMapper, Serilog*
 
-<td valign="top" width="50%">
+- Architected a scalable multi-branch restaurant management system supporting dine-in, pickup, and delivery workflows.
+- Implemented real-time order tracking using SignalR across kitchen, cashier, and delivery modules.
+- Developed secure authentication using ASP.NET Core Identity, JWT, refresh tokens, OAuth2 (Google & Facebook), and Paymob integration.
+- Built AI-powered features for smart order suggestions and calorie estimation.
+- Designed a 4-layer Onion Architecture with Redis caching, Serilog logging, and SMTP-based feedback system.
 
-### 🎨 Frontend
-<p>
-  <img height="55" src="https://skillicons.dev/icons?i=angular,ts,html,css,bootstrap" />
-</p>
+[Backend](https://github.com/HossamAbouelenien/Restaurant-Project) | [Frontend](https://github.com/AmrAlaraby/Restaurant-Project-Front) | [Live Demo](https://restaurantmanagesys.netlify.app/customer/home)
 
-</td>
-</tr>
+---
 
-<tr>
-<td valign="top">
+### ✈️ BookYourJourney – Online Real-Time Booking System
 
-### 🗄️ Database
-<p>
-  <img height="55" src="https://skillicons.dev/icons?i=mysql,redis" />
-</p>
+**ASP.NET Core RESTful API travel booking platform**
+*ASP.NET Core, SQL Server, Clean Architecture, CQRS, MediatR, OAuth2, JWT, Paymob, SMTP*
 
-<p>
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square"/>
-</p>
+- Engineered a RESTful API-based travel booking system featuring hotel search, trip reviews, and admin dashboard.
+- Integrated real-time SignalR chat and booking status updates (Pending, Confirmed, Completed).
+- Secure user authentication using JWT and OAuth2 (Google/GitHub), with Paymob payment handling.
+- Structured 5-layer Clean Architecture with CQRS and MediatR for maintainability and scalability.
+- Added trip itinerary planner, email feedback system, and role-based admin management.
 
-</td>
+[GitHub](https://github.com/mustafas3aad/BookyYourJourney)
 
-<td valign="top">
+---
 
-### 🧱 Architecture
-<p>
-  <img src="https://img.shields.io/badge/Clean_Architecture-111827?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Onion_Architecture-512BD4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CQRS-0F172A?style=flat-square"/>
-</p>
+### 🏡 Online Villa Rental System
 
-</td>
-</tr>
+**ASP.NET Core Web API + MVC consumer app**
+*ASP.NET Web API, ASP.NET Core MVC, SQL Server, Identity, N-Tier Architecture, AutoMapper*
 
-<tr>
-<td valign="top">
+- Developed a villa rental management system with .NET 8 Web API, featuring RESTful architecture, CRUD operations, and versioned endpoints.
+- Implemented JWT authentication, role-based access, API key management, and secure refresh token mechanism.
+- Applied Repository pattern, AutoMapper, and Swagger for documentation, caching, pagination, and filtering.
+- Ensured code quality with unit testing, API validation, and error handling.
 
-### ⚙️ Tools
-<p>
-  <img height="55" src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
-</p>
+[GitHub](https://github.com/mustafas3aad/RoyalVilla)
 
-</td>
+---
 
-<td valign="top">
+### 📚 Online Book Store – E-Commerce Web Application
 
-### 🔐 Authentication
-<p>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OAuth2-EA4335?style=flat-square"/>
-</p>
+**ASP.NET Core MVC e-commerce platform**
+*ASP.NET Core MVC, SQL Server, Identity, N-Tier Architecture, Stripe, JavaScript, Bootstrap v5*
 
-</td>
-</tr>
-</table>
+- Designed and developed a dynamic e-commerce platform using modern web technologies.
+- Utilized ASP.NET Core Identity for authentication, Dependency Injection, Unit of Work, and Repository Pattern.
+- Integrated Stripe payment gateway, multi-image upload, external login, and email confirmation.
+- Built shopping cart, order management, user and role management, and integrated DataTables API.
 
-# 📈 GitHub Stats
+[GitHub](https://github.com/mustafas3aad/BulkyBookStore)
+
+---
+🧰 My Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustafas3aad&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,typescript,javascript,html,css,git,github,docker,postman" />
 </p>
+
+---
 
 # 🏆 Achievements
 
@@ -134,3 +119,9 @@
 - 🔥 Strong focus on Backend Engineering & Architecture
 
 ---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mustafas3aad&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
