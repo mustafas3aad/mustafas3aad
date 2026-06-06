@@ -41,8 +41,6 @@
 
 ## 🏆 Featured Projects
 
----
-
 ### 🍽️ Restaurant Management System – ITI Graduation Project
 
 **Full-stack multi-branch restaurant platform**
